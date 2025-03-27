@@ -9,3 +9,8 @@ cd ../
 source Streamlit/venv/bin/activate
 pip install -r requirement.txt
 streamlit run homepage.py
+
+# Required
+# - Installation of Ollama for local model runs
+# - ollama run llama2 (This is to install llama2 model to be downloaded into local machine)
+#   
