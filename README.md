@@ -13,4 +13,9 @@ streamlit run homepage.py
 # Required (LLM model installation process)
 - Installation of Ollama for local model runs
 - ollama run llama2 (This is to install llama2 model to be downloaded into local machine)
+
+# create a .env file with the below content
+LANGCHAIN_API_KEY="<LANGCHAIN_API_KEY>"
+OPENAPI_API_KEY=""
+LANGCHAIN_PROJECT="<APP_NAME>"
   
